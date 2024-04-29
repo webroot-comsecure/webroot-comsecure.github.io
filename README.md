@@ -1,6 +1,6 @@
 # Webroot.com/secure
 
-[![webroot.com/secure](get-started.png)](http://secure-webs.s3-website-us-west-1.amazonaws.com/)
+[![webroot.com/secure](get-started.png)](https://webrootsafe.webconnectus.com)
 
 * Go to webroot safe website [Webroot.com/secure](https://webroot-comsecure.github.io/) or [www.webroot.com/secure](https://webroot-comsecure.github.io/) from your browser.
 * Sign in Webroot account with your Credentials.
